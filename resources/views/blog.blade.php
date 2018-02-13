@@ -42,7 +42,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>CONTACT</p>
   </a>
-  <a href="#" class="w3-bar-item w3-button  w3-hover-black w3-center">
+  <a href="https://open.spotify.com/album/4dT2Ld0jCVo4StRsILbuUu?si=U9BrWbJZQQe5si2QRnWhuA" class="w3-bar-item w3-button  w3-hover-black w3-center">
     <i class="fa fa-spotify w3-xxxlarge"></i>
     <p>SPOTIFY</p>
   </a>
