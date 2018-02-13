@@ -26,7 +26,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
   <!-- <img src="https://image.ibb.co/jFjqVn/S_4867157246075.jpg" style="width:100%"> -->
-  <a href="#top" class="w3-bar-item w3-button  w3-hover-black w3-center">
+  <a href="#top" style="margin-top:60px" class="w3-bar-item w3-button  w3-hover-black w3-center">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
   </a>
@@ -51,11 +51,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 <!-- Navbar on small screens (Hidden on medium and large screens) -->
 <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
-  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
-    <a href="#top" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
+  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center">
+    <a href="#top" class="w3-bar-item w3-button" style="width:20% !important">HOME</a>
     <a href="#about" class="w3-bar-item w3-button" style="width:25% !important">ABOUT</a>
     <a href="#photoss" class="w3-bar-item w3-button" style="width:25% !important">GALLERY</a>
-    <a href="#contact" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
+    <a href="#contact" class="w3-bar-item w3-button" style="width:30% !important">CONTACT</a>
   </div>
 </div>
 
@@ -75,14 +75,14 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </div>
 
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="songs">
-    <h2 class="w3-text-light-grey">Check Our Songs!</h2>
+    <h3 class="w3-text-light-grey">Check Our Songs!</h3>
     <hr style="width:200px" class="w3-opacity">
   </div>
 
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <h2 class="w3-text-light-grey">ANKARA</h2>
+    <h3 class="w3-text-light-grey">ANKARA</h3>
     <hr style="width:200px" class="w3-opacity">
     <p>Ankara adalah band blablabla yayayaya. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
       ex ea commodo consequat. Ankara adalah band blablabla yayayaya. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur
@@ -91,7 +91,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
 
-    <h2 class="w3-text-light-grey">We Are (Click Me!)</h2>
+    <h3 class="w3-text-light-grey">We Are (Click Me!)</h3>
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-row ">
@@ -136,7 +136,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- Portfolio Section -->
   <div class="w3-padding-64 w3-content" id="photoss">
-    <h2 class="w3-text-light-grey">Gallery</h2>
+    <h3 class="w3-text-light-grey">Gallery</h3>
 
     <hr style="width:200px" class="w3-opacity">
 
@@ -161,7 +161,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- Contact Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
-    <h2 class="w3-text-light-grey">Contact Us</h2>
+    <h3 class="w3-text-light-grey">Contact Us</h3>
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-section">
